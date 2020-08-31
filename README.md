@@ -1,6 +1,7 @@
 # KTRN
 Knowledge-aware Topological Networks for Recommendation
-![avatar](model.png)
+![avatar](https://github.com/jianpan95/KTRN/blob/master/model.png)
+
 ### Files in the folder
 
 - `data/`
